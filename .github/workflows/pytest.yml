@@ -4,7 +4,9 @@ name: Pytest
 # Runs whenever a push to main occurs.
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+      - dev
 
 
 jobs:
