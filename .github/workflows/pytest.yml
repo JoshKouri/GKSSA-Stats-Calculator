@@ -1,5 +1,5 @@
 # Runs Pytest on the Tests module.
-name: Pytest
+name: Tests
 
 # Runs whenever a push to main occurs.
 on:
